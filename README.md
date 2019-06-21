@@ -1,1 +1,1 @@
-# calculadora
+Calculadora, como forma de teste de selação da empresa Geosales. Prova para conhecimento de perfil. Acho que não darei conta na empresa, contudo fiz o projeto. Encontrei uma outra empresa, mas, muito obrigado pela oportunidade.
